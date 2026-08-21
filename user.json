@@ -16,6 +16,12 @@
         "key": "USER2",
         "expirydate": "19-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "7ee369dab2d5eba0",
+        "key": "USER3",
+        "expirydate": "18-09-2026",
+        "Allowoffline": true
     }
 ]
   
