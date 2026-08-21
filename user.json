@@ -4,6 +4,12 @@
         "key": "MONTHLY",
         "expirydate": "01-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "fdda83363823543a",
+        "key": "USER1",
+        "expirydate": "12-09-2026",
+        "Allowoffline": true
     }
 ]
   
